@@ -56,7 +56,7 @@ O app será aberto automaticamente no seu navegador padrão.
 **Mailson Dias**  
 *Desenvolvedor Web*  
 📍 Brasil  
-🔗 [linkedin.com/in/marianacosta](https://linkedin.com/in/marianacosta)  
+<!-- 🔗 [linkedin.com/in/marianacosta](https://linkedin.com/in/meuperfil)  -->
 ✉️ mailsondias.dev@gmail.com  
 
 > _"Código com propósito."_ 🚀
